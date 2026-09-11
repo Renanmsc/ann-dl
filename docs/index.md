@@ -2,7 +2,7 @@
 
 ???+ info inline end "Edição"
 
-    **20XX.X** <!-- TROCAR -->
+    **2026.2**
 
     [Enunciados :material-open-in-new:](https://insper.github.io/ann-dl/){:target='_blank'}
 
@@ -18,7 +18,7 @@ Quem responde por este repositório. Os **exercícios são individuais**; a equi
 
 | Nome completo | E-mail | GitHub |
 |---------------|--------|--------|
-| | | |
+| Renan Mello de Souza Cardoso | renanmsc@al.insper.edu.br | renanmsc |
 
 !!! tip "Como usar este template"
 
