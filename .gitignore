@@ -3,3 +3,7 @@ env/
 .cache/
 .vscode/
 target/
+
+__pycache__
+
+MNIST
